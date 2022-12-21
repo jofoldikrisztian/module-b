@@ -1,2 +1,2 @@
 # module-b
-v2
+v3
